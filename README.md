@@ -26,7 +26,7 @@
   <h2> 
     <a target="blank"> 
       <img src="https://media1.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif?cid=ecf05e47e7dvfufx9t47q5pf2065hf6mr8dmr8y2yrq8o3su&rid=giphy.gif&ct=s" height="40" width="40" />
-      Let's Connect ! 🌐 
+      Let's Connect !  
     </a>
   </h2>
   <p>Want to chat about tech, design, or anything cool? I’m available and reachable on LinkedIn or via Gmail.</p>
