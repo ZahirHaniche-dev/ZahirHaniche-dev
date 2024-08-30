@@ -26,30 +26,10 @@
   <h2> 
     <a target="blank"> 
       <img src="https://media1.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif?cid=ecf05e47e7dvfufx9t47q5pf2065hf6mr8dmr8y2yrq8o3su&rid=giphy.gif&ct=s" height="40" width="40" />
-      Let's Connect! 🌐 
+      Let's Connect ! 🌐 
     </a>
   </h2>
   <p>Want to chat about tech, design, or anything cool? I’m available and reachable on LinkedIn or via Gmail.</p>
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/feed/update/urn:li:activity:7235202142997823489//">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:haniche.zahir@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
-
-<div align="center">
-  <h2> <a target="blank"> Tech Stack ⚙️ </a> </h2>
-</div>
-
-
-![Bootstrap](https://img.shields.io/badge/-Liferay%20DXP%20-05122A?style=flat-square&logo=Liferay-DXP&color=353535) ![Bootstrap](https://img.shields.io/badge/-ReactJS-05122A?style=flat-square&logo=ReactJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-NextJS-05122A?style=flat-square&logo=NextJS&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat-square&logo=MySQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL&color=353535) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=Git&color=353535) ![Bootstrap](https://img.shields.io/badge/-IntelIJ-05122A?style=flat-square&logo=IntelIJ&color=353535) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat-square&logo=Visual-Studio-Code&color=353535)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZahirHaniche-dev&show_icons=true&locale=en&layout=compact" alt="ZahirHaniche-dev" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ZahirHaniche-dev&" alt="ZahirHaniche-dev" />
 </div>
