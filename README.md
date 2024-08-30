@@ -12,7 +12,7 @@
  
 # <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> I'm Zahir HANICHE <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
 </div>
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=500&height=30&lines=I'm+a...;IT+Consultant;Software+Developer;Liferay+Developer"/>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=500&height=30&lines=I'm+a...;Frontend+Developer;IT+Consultant;Liferay+Developer"/>
 </div>
 
 <!-- About Me -->
