@@ -1,12 +1,12 @@
 <div  align="center" >
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" />
-<a href="https://github.com/ZahirHaniche-dev"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
+
+
 </div>
 <!-- heading -->
 
 <div align="center">
  
-# Hello! I'm Zahir <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
+# <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> Hello ! I'm Zahir <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">
 </div>
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&center=true&vCenter=true&width=500&height=30&lines=I'm+a...;IT+Consultant;Software+Developer;Liferay+Developer"/>
 </div>
@@ -37,6 +37,7 @@
   <a href="mailto:haniche.zahir@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" alt="Gmail">
   </a>
+   <a href="https://github.com/ZahirHaniche-dev"><img src="https://img.shields.io/github/followers/PluckyPrecious.svg?label=GitHub&style=social" alt="GitHub"></a>
 </p>
 </div>
 
