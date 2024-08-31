@@ -1,10 +1,10 @@
 <!-- Banner Section -->
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://getmoredonationsusa.com/campaign/gaza/FUNHJGXZCKQ/?utm_source=google&utm_medium=cpc&utm_campaign=21480680770&utm_content=705971831193&cid=Cj0KCQjwtZK1BhDuARIsAAy2Vztmpmn3Z3-uNmuuLXeqcfxwRTGpKA9UX1hMxJNSFcMDH-RCK5oQYZYaAmXQEALw_wcB">
     <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="ReadMeSupportPalestine">
   </a>
-</div> 
+</div> -->
 
 
 <!-- Header Section -->
