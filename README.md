@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <p>I am a developer specializing in Liferay, with extensive experience in building and customizing enterprise portals. I’m also passionate about front-end development, particularly the history and framework of ReactJS, with experience in AngularJS and Angular as well. 🌐🛠️</p>
+  <p>Certified in Liferay, I excel in ReactJS and NextJS, creating intuitive, high-performing UIs with a focus on web performance and team collaboration. 🌐🛠️</p>
  <p align="center"> <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="othmanenissoukin" />  
  <img src="https://komarev.com/ghpvc/?username=ZahirHaniche-dev&label=Profile%20views&color=27cbec&style=flat" alt="othmanenissoukin" /><p>
 </div>
