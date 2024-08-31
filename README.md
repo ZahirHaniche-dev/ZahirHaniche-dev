@@ -1,12 +1,10 @@
-<div  align="center" >
 
-<div align="center">
+
+<!-- <div align="center">
   <a href="https://getmoredonationsusa.com/campaign/gaza/FUNHJGXZCKQ/?utm_source=google&utm_medium=cpc&utm_campaign=21480680770&utm_content=705971831193&cid=Cj0KCQjwtZK1BhDuARIsAAy2Vztmpmn3Z3-uNmuuLXeqcfxwRTGpKA9UX1hMxJNSFcMDH-RCK5oQYZYaAmXQEALw_wcB">
     <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="ReadMeSupportPalestine">
   </a>
-</div>
-</div>
-<!-- heading -->
+</div> -->
 
 <div align="center">
  
@@ -22,8 +20,8 @@
 
 <div align="center">
   <p>Certified in Liferay, I excel in ReactJS and NextJS, creating intuitive, high-performing UIs with a focus on web performance and team collaboration. 🌐🛠️</p>
- <p align="center"> <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="othmanenissoukin" />  
- <img src="https://komarev.com/ghpvc/?username=ZahirHaniche-dev&label=Profile%20views&color=27cbec&style=flat" alt="othmanenissoukin" /><p>
+ <p align="center"> <img  src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="hanichezahir" />  
+ <img src="https://komarev.com/ghpvc/?username=ZahirHaniche-dev&label=Profile%20views&color=27cbec&style=flat" alt="hanichezahir" /><p>
 </div>
 
 <!-- Contact me -->
