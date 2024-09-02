@@ -11,7 +11,7 @@
 <div align="center">
   <h1>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Waving Hand" /> 
-    I'm Zahir HANICHE
+    I'm  <a href="https://zahirhaniche-dev.github.io/ZahirHaniche-portfolio/"> Zahir HANICHE </a>
   </h1>
 </div>
 
@@ -28,8 +28,11 @@
   </p>
 
   <p align="center">
-    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Stand With Palestine" />
-    <img src="https://komarev.com/ghpvc/?username=ZahirHaniche-dev&label=Profile%20views&color=27cbec&style=flat" alt="Profile Views" />
+   <!-- <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Stand With Palestine" />
+    <img src="https://komarev.com/ghpvc/?username=ZahirHaniche-dev&label=Profile%20views&color=27cbec&style=flat" alt="Profile Views" /> -->
+
+  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vscode,html,css,github,git)](https://skillicons.dev)
   </p>
   <p>
     Over the past 9 years, I’ve had the privilege of working with some of the most prestigious clients in France, including the Ministry of Sports, BNP Paribas, and Cardif. My experience spans across multiple industries, where I’ve consistently delivered robust and innovative digital solutions that meet the highest standards of quality and performance.
@@ -73,4 +76,5 @@ const Zahir = {
       <img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
     </a>
   </p>
+
 </div>
