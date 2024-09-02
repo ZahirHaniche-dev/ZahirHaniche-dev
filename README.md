@@ -72,9 +72,6 @@ const Zahir = {
     <a href="mailto:haniche.zahir@gmail.com" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://github.com/ZahirHaniche-dev" target="_blank" rel="noopener noreferrer">
-      <img align="center" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
-    </a>
   </p>
 
 </div>
