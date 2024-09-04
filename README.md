@@ -17,7 +17,7 @@
 
 <!-- Typing SVG -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff8c00&size=30&center=true&vCenter=true&width=500&height=30&lines=I'm+a...;Frontend+Developer;IT+Consultant;Liferay+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=500&height=30&lines=I'm+a...;Frontend+Developer;IT+Consultant;Liferay+Developer" alt="Typing SVG" />
 </div>
 
 <!-- About Me Section -->
