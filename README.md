@@ -1,28 +1,30 @@
 <!-- Banner Section -->
 
-<!-- <div align="center">
+<div align="center">
   <a href="https://getmoredonationsusa.com/campaign/gaza/FUNHJGXZCKQ/?utm_source=google&utm_medium=cpc&utm_campaign=21480680770&utm_content=705971831193&cid=Cj0KCQjwtZK1BhDuARIsAAy2Vztmpmn3Z3-uNmuuLXeqcfxwRTGpKA9UX1hMxJNSFcMDH-RCK5oQYZYaAmXQEALw_wcB">
     <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="ReadMeSupportPalestine">
   </a>
-</div> -->
+</div>
 
 
 <!-- Header Section -->
-<div align="center">
+<!--  <div align="center">
   <h1>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Waving Hand" /> 
     I'm  <a href="https://zahirhaniche-dev.github.io/ZahirHaniche-portfolio/"> Zahir HANICHE </a>
   </h1>
 </div>
 
-<!-- Typing SVG -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=ffffff&size=30&center=true&vCenter=true&width=500&height=30&lines=I'm+a...;Frontend+Developer;IT+Consultant;Liferay+Developer" alt="Typing SVG" />
-</div>
+</div> -->
 
 <!-- About Me Section -->
 <div align="center">
-  <h2> <a target="_blank" rel="noopener noreferrer">Who Am I? 🚀</a> </h2>
+  <!-- <h2> <a target="_blank" rel="noopener noreferrer">Who Am I? 🚀</a> </h2> -->
+  <h2>
+   I'm Zahir HANICHE 👋 
+  </h2>
   <p>
     Certified in Liferay, I excel in ReactJS and NextJS, creating intuitive, high-performing UIs with a focus on web performance and team collaboration. 
   </p>
