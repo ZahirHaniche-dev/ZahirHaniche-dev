@@ -26,7 +26,7 @@
    I'm Zahir HANICHE 👋 
   </h2>
   <p>
-    Certified in Liferay, I excel in ReactJS and NextJS, creating intuitive, high-performing UIs with a focus on web performance and team collaboration. 
+    I am a front-end software engineer and IT consultant with 10 years of experience. Currently a Lead Developer at Inetum, I specialize in SEO and RGAA compliance. I am proficient in ReactJS, NextJS, AngularJS, Java, and Spring. I hold a certification in Liferay DXP and am pursuing a Scrum Master certification. Trilingual in French, technical English, and Arabic, I am passionate about travel and teamwork.
   </p>
 
   <p align="center">
