@@ -36,25 +36,26 @@
   
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vscode,html,css,github,git)](https://skillicons.dev)
   </p>
-  <p>
+ <!-- <p>
     Over the past 9 years, I’ve had the privilege of working with some of the most prestigious clients in France, including the Ministry of Sports, BNP Paribas, and Cardif. My experience spans across multiple industries, where I’ve consistently delivered robust and innovative digital solutions that meet the highest standards of quality and performance.
-  </p>
+  </p> -->
   <br>
 </div>
-<!-- ```javascript
+
+ ```javascript
 const Zahir = {
-  code: ["Liferay DXP, Javascript", "ReactJS", "NextJS"],
+  code: ["Javascript", "Java", "HTML", "CSS", ],
     askMeAbout: ["web dev", "tech", "app dev", "scrum master", "soccer"],
     technologies: {
       frontEnd: {
-            technologies: [ "Shell", "HTML", "CSS", "SASS", "JS", "React", "Typescript", "Redux",  "NextJS"],
+            technologies: [ "Shell", "React", "Next", "AngularJS", "SASS", "Typescript", "Redux", ],
         },
-        misc: ["styled-components", "tailwind", "GIT"]
+        misc: ["styled-components", "tailwind", "GIT", "Bootstrap", "Liferay DXP", "Liferay Cloud", "Scrum Master PSM I"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     funFact: "I love people and I love traveling"
 };
-``` -->
+``` 
 <div align="center">
 <h2>
    :fire: My Stats 
