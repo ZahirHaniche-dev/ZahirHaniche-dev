@@ -41,9 +41,7 @@
   </p>
   <br>
 </div>
-
-
-```javascript
+<!-- ```javascript
 const Zahir = {
   code: ["Liferay DXP, Javascript", "ReactJS", "NextJS"],
     askMeAbout: ["web dev", "tech", "app dev", "scrum master", "soccer"],
@@ -56,14 +54,20 @@ const Zahir = {
     architecture: ["Progressive web applications", "Single page applications"],
     funFact: "I love people and I love traveling"
 };
-```
+``` -->
+<div align="center">
+<h2>
+   :fire: My Stats 
+  </h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahirHaniche-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 <!-- Contact Me Section -->
 <div align="center">
   <h2>
     <a target="_blank" rel="noopener noreferrer">
-      <img src="https://media1.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif?cid=ecf05e47e7dvfufx9t47q5pf2065hf6mr8dmr8y2yrq8o3su&rid=giphy.gif&ct=s" height="40" width="40" alt="Connect GIF" />
       Let's Connect!
+      <img src="https://media1.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif?cid=ecf05e47e7dvfufx9t47q5pf2065hf6mr8dmr8y2yrq8o3su&rid=giphy.gif&ct=s" height="40" width="40" alt="Connect GIF" />
     </a>
   </h2>
   <p>Want to chat about tech, design, or anything cool? I’m available and reachable on LinkedIn or via Gmail.</p>
