@@ -54,7 +54,7 @@ const Zahir = {
       technologies: ["Java", "Spring", "Node.js", "Express"],
     },
     databases: ["MySQL", "PostgreSQL"],
-    misc: ["styled-components", "tailwind", "GIT", "Bootstrap", "Liferay DXP", "Liferay Cloud", "Scrum Master PSM I", "SEO", "RGAA"],
+    misc: ["styled-components", "tailwind", "Bootstrap", "Liferay DXP", "Scrum Master PSM I", "SEO", "RGAA"],
   },
   tools: ["Git", "IntelliJ", "Visual Studio Code", "Jenkins", "Maven", "Eclipse", "PyCharm", "GitLab", "Subversion (SVN)"],
   funFact: "I love people and I love traveling",
