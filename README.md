@@ -44,17 +44,23 @@
 
  ```javascript
 const Zahir = {
-  code: ["Javascript", "Java", "HTML", "CSS", ],
-    askMeAbout: ["web dev", "tech", "app dev", "scrum master", "soccer"],
-    technologies: {
-      frontEnd: {
-            technologies: [ "Shell", "React", "Next", "AngularJS", "SASS", "Typescript", "Redux", ],
-        },
-        misc: ["styled-components", "tailwind", "GIT", "Bootstrap", "Liferay DXP", "Liferay Cloud", "Scrum Master PSM I"]
+  code: ["Javascript", "Java", "HTML", "CSS", "Python", "PHP"],
+  askMeAbout: ["web dev", "tech", "app dev", "scrum master", "soccer"],
+  technologies: {
+    frontEnd: {
+      technologies: ["Shell", "React", "NextJS", "AngularJS", "SASS", "Typescript", "Redux", "jQuery", "Bootstrap"],
     },
-    architecture: ["Progressive web applications", "Single page applications"],
-    funFact: "I love people and I love traveling"
+    backEnd: {
+      technologies: ["Java", "Spring", "Node.js", "Express"],
+    },
+    databases: ["MySQL", "PostgreSQL"],
+    misc: ["styled-components", "tailwind", "GIT", "Bootstrap", "Liferay DXP", "Liferay Cloud", "Scrum Master PSM I", "SEO", "RGAA"],
+  },
+  tools: ["Git", "IntelliJ", "Visual Studio Code", "Jenkins", "Maven", "Eclipse", "PyCharm", "GitLab", "Subversion (SVN)"],
+  funFact: "I love people and I love traveling",
+ 
 };
+
 ``` 
 <div align="center">
 <h2>
