@@ -5,8 +5,6 @@
     <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="ReadMeSupportPalestine">
   </a>
 </div>
-
-
 <!-- Header Section -->
 <!--  <div align="center">
   <h1>
