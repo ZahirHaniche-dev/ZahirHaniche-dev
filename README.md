@@ -40,6 +40,7 @@
   <br>
 </div>
 
+<!--
  ```javascript
 const Zahir = {
   code: ["Javascript", "Java", "HTML", "CSS", "Python", "PHP"],
@@ -58,8 +59,9 @@ const Zahir = {
   funFact: "I love people and I love traveling",
  
 };
+```
+-->
 
-``` 
 <div align="center">
 <h2>
    :fire: My Stats 
