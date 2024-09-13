@@ -21,7 +21,7 @@
 <div align="center">
   <!-- <h2> <a target="_blank" rel="noopener noreferrer">Who Am I? 🚀</a> </h2> -->
   <h2>
-   I'm Zahir HANICHE 👋 
+   👋 I'm Zahir HANICHE 
   </h2>
   <p>
     I am a front-end software engineer and IT consultant with 10 years of experience. Currently a Lead Developer at Inetum, I specialize in SEO and RGAA compliance. I am proficient in ReactJS, NextJS, AngularJS, Java, and Spring. I hold a certification in Liferay DXP and am pursuing a Scrum Master certification. Trilingual in French, technical English, and Arabic, I am passionate about travel and teamwork.
