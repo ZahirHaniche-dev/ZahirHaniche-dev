@@ -1,10 +1,4 @@
-<!-- Banner Section -->
 
-<div align="center">
-  <a href="https://getmoredonationsusa.com/campaign/gaza/FUNHJGXZCKQ/?utm_source=google&utm_medium=cpc&utm_campaign=21480680770&utm_content=705971831193&cid=Cj0KCQjwtZK1BhDuARIsAAy2Vztmpmn3Z3-uNmuuLXeqcfxwRTGpKA9UX1hMxJNSFcMDH-RCK5oQYZYaAmXQEALw_wcB">
-    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="ReadMeSupportPalestine">
-  </a>
-</div>
 <!-- Header Section -->
 <!--  <div align="center">
   <h1>
@@ -78,6 +72,15 @@ const Zahir = {
     </a>
   </h2>
   <p>Want to chat about tech, design, or anything cool? I’m available and reachable on LinkedIn or via Gmail.</p>
+
+
+  <!-- Banner Section -->
+
+<div align="center">
+  <a href="https://getmoredonationsusa.com/campaign/gaza/FUNHJGXZCKQ/?utm_source=google&utm_medium=cpc&utm_campaign=21480680770&utm_content=705971831193&cid=Cj0KCQjwtZK1BhDuARIsAAy2Vztmpmn3Z3-uNmuuLXeqcfxwRTGpKA9UX1hMxJNSFcMDH-RCK5oQYZYaAmXQEALw_wcB">
+    <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/banner-support.svg" alt="ReadMeSupportPalestine">
+  </a>
+</div>
   <p align="center" style="border: none;">
     <a href="https://www.linkedin.com/in/zahirhaniche/" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
