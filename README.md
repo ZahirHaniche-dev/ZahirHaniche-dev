@@ -68,6 +68,7 @@ const Zahir = {
   </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahirHaniche-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 <!-- Contact Me Section -->
 <div align="center">
