@@ -67,7 +67,7 @@ const Zahir = {
    :fire: Mes Statistiques
   </h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahirHaniche-dev&layout=compact&theme=vision-friendly-dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahirHaniche-dev&layout=compact&theme=vision-friendly-dark)
 
 </div>
 <!-- Contact Me Section -->
