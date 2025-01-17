@@ -20,13 +20,13 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <!-- <h2> <a target="_blank" rel="noopener noreferrer">Who Am I? 🚀</a> </h2> -->
   <h2>
-   👋 I'm Zahir HANICHE 
+   👋 Bonjour, je suis Zahir
   </h2>
   <p>
-    I am a front-end software engineer and IT consultant with 10 years of experience. Currently a Lead Developer at Inetum, I specialize in SEO and RGAA compliance. I am proficient in ReactJS, NextJS, AngularJS, Java, and Spring. I hold a certification in Liferay DXP and am pursuing a Scrum Master certification. Trilingual in French, technical English, and Arabic, I am passionate about travel and teamwork.
-  </p>
+  <strong style="color: #00ff99;">Développeur Fullstack JS/TS</strong> et consultant technique avec plus de 10 ans d'expérience. Passionné par la création de produits performants et innovants, j'allie expertise technique et design en tant que <strong style="color: #00ff99;">Designer UI/UX</strong>. Mon parcours inclut également la gestion de projets Agile en tant que Scrum Master certifié.
+</p>
+
 
   <p align="center">
    <!-- <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Stand With Palestine" />
@@ -64,7 +64,7 @@ const Zahir = {
 
 <div align="center">
 <h2>
-   :fire: My Stats 
+   :fire: Mes Statistiques
   </h2>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahirHaniche-dev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -74,11 +74,12 @@ const Zahir = {
 <div align="center">
   <h2>
     <a target="_blank" rel="noopener noreferrer">
-      Let's Connect!
+      Restons Connectés !
       <img src="https://media1.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif?cid=ecf05e47e7dvfufx9t47q5pf2065hf6mr8dmr8y2yrq8o3su&rid=giphy.gif&ct=s" height="40" width="40" alt="Connect GIF" />
     </a>
   </h2>
-  <p>Want to chat about tech, design, or anything cool? I’m available and reachable on LinkedIn or via Gmail.</p>
+  <p>Envie de discuter de tech, design ou d'autres sujets passionnants ? Vous pouvez me contacter sur LinkedIn ou par Gmail.</p>
+  <p>Portfolio: https://hanichezahir-portfolio.vercel.app/</p>
   <p align="center" style="border: none;">
     <a href="https://www.linkedin.com/in/zahirhaniche/" target="_blank" rel="noopener noreferrer">
       <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
