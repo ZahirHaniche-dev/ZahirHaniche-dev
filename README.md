@@ -32,7 +32,7 @@
    <!-- <img src="https://raw.githubusercontent.com/Safouene1/support-palestine-banner/master/StandWithPalestine.svg" alt="Stand With Palestine" />
     <img src="https://komarev.com/ghpvc/?username=ZahirHaniche-dev&label=Profile%20views&color=27cbec&style=flat" alt="Profile Views" /> -->
   
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,vscode,html,css,sass,github,git,npm,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,vue,angular,nodejs,figma,jenkins)](https://skillicons.dev)
   </p>
  <!-- <p>
     Over the past 9 years, I’ve had the privilege of working with some of the most prestigious clients in France, including the Ministry of Sports, BNP Paribas, and Cardif. My experience spans across multiple industries, where I’ve consistently delivered robust and innovative digital solutions that meet the highest standards of quality and performance.
