@@ -20,12 +20,14 @@
 
 <!-- About Me Section -->
 <div align="center">
-  <h2>
-   👋 Bonjour, je suis Zahir
-  </h2>
+ <h2>
+   👋 Hello, I'm Zahir
+</h2>
+
   <p>
-  <strong style="color: #00ff99;">Développeur Fullstack JS/TS</strong> et consultant technique avec plus de 10 ans d'expérience. Passionné par la création de produits performants et innovants, j'allie expertise technique et design en tant que <strong style="color: #00ff99;">Designer UI/UX</strong>. Mon parcours inclut également la gestion de projets Agile en tant que Scrum Master certifié.
+  <strong style="color: #00ff99;">Senior Fullstack Developer (JS/TS)</strong> and Technical Consultant with over 10 years of experience. Passionate about building high-performance and innovative products, I combine technical expertise with design as a <strong style="color: #00ff99;">UI/UX Designer</strong>. My background also includes Agile project management as a Certified Scrum Master.
 </p>
+
 
 
   <p align="center">
@@ -64,8 +66,9 @@ const Zahir = {
 
 <div align="center">
 <h2>
-   :fire: Mes Statistiques
-  </h2>
+   🔥 My Stats
+</h2>
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahirHaniche-dev&layout=compact&theme=vision-friendly-dark)
 
@@ -74,11 +77,11 @@ const Zahir = {
 <div align="center">
   <h2>
     <a target="_blank" rel="noopener noreferrer">
-      Restons Connectés !
+      Let's Stay Connected!
       <img src="https://media1.giphy.com/media/IqgySmxEgP0rs40ZMB/giphy.gif?cid=ecf05e47e7dvfufx9t47q5pf2065hf6mr8dmr8y2yrq8o3su&rid=giphy.gif&ct=s" height="40" width="40" alt="Connect GIF" />
     </a>
   </h2>
-  <p>Envie de discuter de tech, design ou d'autres sujets passionnants ? Vous pouvez me contacter sur LinkedIn ou par Gmail.</p>
+  <p>Want to chat about tech, design, or other exciting topics? Feel free to reach out to me on LinkedIn or via Gmail.</p>
   <p>Portfolio: https://hanichezahir-portfolio.vercel.app/</p>
   <p align="center" style="border: none;">
     <a href="https://www.linkedin.com/in/zahirhaniche/" target="_blank" rel="noopener noreferrer">
@@ -89,4 +92,5 @@ const Zahir = {
     </a>
   </p>
 </div>
+
 
