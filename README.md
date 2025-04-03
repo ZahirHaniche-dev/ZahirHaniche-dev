@@ -25,7 +25,9 @@
 </h2>
 
   <p>
-  <strong style="color: #00ff99;">Senior Fullstack Developer (JS/TS)</strong> and Technical Consultant with over 10 years of experience. Passionate about building high-performance and innovative products, I combine technical expertise with design as a <strong style="color: #00ff99;">UI/UX Designer</strong>. My background also includes Agile project management as a Certified Scrum Master.
+  <strong style="color: #00ff99;">📌 With over 10 years of experience in web development and frontend architecture, I specialize in JavaScript and TypeScript, with advanced expertise in technologies such as React, Next.js, Angular, Vue.js, and Node.js. I also have a deep mastery of the Liferay DXP solution.
+
+My approach focuses on guiding clients towards the success of their digital projects by leveraging my technical expertise, experience in Agile project management, and commitment to best development practices. As a certified Scrum Master, I ensure adherence to Agile methodologies to guarantee effective, results-driven projects. Additionally, I am mindful of accessibility challenges, specifically RGAA standards.
 </p>
 
 
