@@ -12,13 +12,13 @@
 
 # 🌐 MY PORTFOLIO WEBSITE
 
-## 👉 **https://hanichezahir-portfolio.vercel.app/** 👈
+## 👉 **https://zahirhaniche.netlify.app/** 👈
 
 <p>
   Discover my projects, experience, tech stack and professional journey 🚀
 </p>
 
-<a href="https://hanichezahir-portfolio.vercel.app/" target="_blank">
+<a href="https://zahirhaniche.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-111111?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
@@ -29,7 +29,7 @@
 </p>
 
 <p>
-  <a href="https://hanichezahir-portfolio.vercel.app/" target="_blank">
+  <a href="https://zahirhaniche.netlify.app/" target="_blank">
     🌐 Portfolio
   </a>
   •
@@ -56,7 +56,7 @@ const zahir = {
   role: "Senior Fullstack Developer",
   experience: "13+ years",
   currentMission: "BNP Paribas Leasing Solutions",
-  portfolio: "https://hanichezahir-portfolio.vercel.app/",
+  portfolio: "https://zahirhaniche.netlify.app/",
   specialization: [
     "Liferay DXP",
     "Java / Spring Boot",
@@ -134,7 +134,7 @@ I enjoy sharing knowledge and helping developers grow 📚
 
 <div align="center">
 
-<a href="https://hanichezahir-portfolio.vercel.app/" target="_blank">
+<a href="https://zahirhaniche.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
