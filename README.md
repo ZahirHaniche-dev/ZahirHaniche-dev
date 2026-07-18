@@ -25,7 +25,7 @@
 <br><br>
 
 <p>
-  🇫🇷 Based in France • 🇩🇿 Algerian • Founder of <strong>ZH Code & Consulting</strong>
+  🇫🇷 Based in France • Founder of <strong>ZH Code & Consulting / CodeBridge</strong>
 </p>
 
 <p>
